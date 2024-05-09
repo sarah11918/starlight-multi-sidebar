@@ -117,10 +117,10 @@ export default defineConfig({
           ],
         },
         {
-          label: "Reference",
+          label: "Look Up",
           items: [
           {
-            label: 'B',
+            label: 'Reference',
             items: [
               // Each item here is one entry in the navigation menu.
               { label: 'Astro API Reference', link: '/reference/api-reference/' },
